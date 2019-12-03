@@ -1,7 +1,7 @@
 # Hello
 ## Hi
-* Sutarak Chairat
-* Game
+# Sutarak Chairat
+# Game
 # 160404140039
 # computer engineering
 # @rmutsv
