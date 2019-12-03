@@ -2,4 +2,4 @@
 ## Hi
 * Sutarak Chairat
 * Game
-![GitHub Logo](ggg.JPg)
+![GitHub Logo](ggg.jpg)
